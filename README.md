@@ -41,7 +41,10 @@ Aim of the project:
 
 ### Results:
 
-* Obtained upto 91 percent of accuracy in the results by inputting a short 6 sec Audio clip of a person talking into the system.
+* Obtained up to 91 percent of accuracy in the results by inputting a short 6 sec Audio clip of a person talking into the system.
+* Memory Utilisation: 28 GB
+* RAM Utilisation: 12 GB
+* For obtaining more clearer and visibly better images, we can opt for higher-end processing systems.
 
 
 

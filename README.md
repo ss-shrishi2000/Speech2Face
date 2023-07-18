@@ -46,5 +46,8 @@ Aim of the project:
 * RAM Utilisation: 12 GB
 * For obtaining more clearer and visibly better images, we can opt for higher-end processing systems.
 
+### Future Work:
+* Utilising more higher end processing systems for obtaining more better picture quality along with clearer indications towards facial features.
+
 
 
